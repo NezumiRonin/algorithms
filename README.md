@@ -1,2 +1,2 @@
 # algorithms
-Just a bunch of algorithms, Made with Perl!
+Just a bunch of algorithms, **Made with Perl!**
